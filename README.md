@@ -69,4 +69,7 @@ dan untuk menampilkan urutan data sesuai jumlah inputan dengan hasil di bawah 0.
 ```python
 angkaDec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
+```
+Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
 
+![Foto Lat2](Gambar/latihan2.png) <br>
