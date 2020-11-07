@@ -41,5 +41,5 @@ ________________________________________________________________________________
 
     ## PRAKTIKUM 1 - LATIHAN 2
     
-   ![Soal lat2](Gambar/soallatihan2.png) <br> 
+   ![Soal lat2](Gambar/soallatihan2.png) <br>
 
