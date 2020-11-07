@@ -37,5 +37,36 @@ baris = 10
 kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
+
 ![Foto Lat1](Gambar/latihan1.png) <br> 
+
+## PRAKTIKUM 1 - LATIHAN 2
+
+![Latihan 2](Gambar/soallatihan2.png) <br>
+
+Di tugas ke dua, saya diminta untuk mencari nilai acak yang bernominal dibawah 0,5. Maka saya memasukan syntax:
+```python
+import random
+print(40*"=")
+print("Bilangan random yang lebih kecil dari 0,5")
+print(40*"=")
+jum = int( input("Masukan nilai n : "))
+i = 0
+for i in range(jum):
+    i += 1
+    angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
+```
+Syntax dibawah ini digunakan untuk mencari nilai random
+```python
+import random
+```
+Sementara untuk menentukan jumlah input yang diinginkan maka perlu memasukan
+```python
+jum = int( input("Masukan nilai n : "))
+```
+dan untuk menampilkan urutan data sesuai jumlah inputan dengan hasil di bawah 0.5 perlu memasukan
+```python
+angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
 
