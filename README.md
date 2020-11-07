@@ -9,7 +9,7 @@ Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu dian
 
 ## PRAKTIKUM 1 - LATIHAN 1
 
-![Latihan 1](Gambar/latihan1.png) <br>
+![Latihan 1](Gambar/soallatihan1.png) <br>
 
 ```
 
